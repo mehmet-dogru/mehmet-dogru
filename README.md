@@ -2,6 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 - 🌱 I’m currently learning **Nodejs, Vuejs, Flutter**
+- 🎓 I'm currently Software Engineering at Samsun University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
