@@ -51,5 +51,5 @@
 ---
 
 ### 📌 Şu Anda
-- 🔭 **City Technologies Center**'da Backend Developer olarak çalışıyorum
+- 🔭 **Unisyn Intelligence Corp.**'da Backend Developer olarak çalışıyorum
 - 🌱 Sistem tasarımı ve dağıtık sistemler üzerine kendimi geliştiriyorum
