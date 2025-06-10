@@ -55,5 +55,5 @@
 ---
 
 ## 📌 Currently
-- 🔭 Working as a **Backend Developer** at **Unisyn Intelligence Corp.**
+- 🔭 Working as a **Backend Developer**
 - 🌱 Improving my skills in **system design** and **distributed systems**
